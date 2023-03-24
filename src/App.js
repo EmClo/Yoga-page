@@ -1,21 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./yoga_logo.png";
+import "./App.css";
+import Button from "./Button.js";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h2>Discover Yoga</h2>
+        <h3>Discover: Relaxation</h3>
+        <Button message="something" />
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.yogabasics.com/practice/yoga-for-beginners/yoga-poses-beginners/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Yoga
         </a>
       </header>
     </div>

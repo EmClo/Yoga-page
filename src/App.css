@@ -1,10 +1,22 @@
+.Title {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
 .App {
   text-align: center;
+  background-image: url("../images/yoga_blackandwhite.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  padding-bottom: 90px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -14,7 +26,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -24,8 +35,13 @@
   color: white;
 }
 
+h2 {
+  margin: 0;
+}
+
 .App-link {
-  color: #61dafb;
+  font-weight: 500;
+  color: #accc6a;
 }
 
 @keyframes App-logo-spin {
