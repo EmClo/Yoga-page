@@ -1,6 +1,6 @@
 import logo from "./yoga_logo.png";
 import "./App.css";
-import Button from "./Button.js";
+import ButtonText from "./discoverText";
 
 function App() {
   return (
@@ -8,8 +8,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Discover Yoga</h2>
-        <h3>Discover: Relaxation</h3>
-        <Button message="something" />
+        <div className="wordContainer">
+          <h3>Discover:</h3>
+          <ButtonText />
+        </div>
         <a
           className="App-link"
           href="https://www.yogabasics.com/practice/yoga-for-beginners/yoga-poses-beginners/"

@@ -19,6 +19,12 @@
   padding-bottom: 90px;
 }
 
+.wordContainer {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -40,6 +46,7 @@ h2 {
 }
 
 .App-link {
+  margin-top: 20px;
   font-weight: 500;
   color: #accc6a;
 }
