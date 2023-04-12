@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EmClo/Yoga-page/static/css/main.0ebbe0ca.css",
+    "main.js": "/EmClo/Yoga-page/static/js/main.fc164f02.js",
+    "static/js/787.6d694c4a.chunk.js": "/EmClo/Yoga-page/static/js/787.6d694c4a.chunk.js",
+    "static/media/yoga_blackandwhite.jpg": "/EmClo/Yoga-page/static/media/yoga_blackandwhite.b0ae32d2ce24d3eeb471.jpg",
+    "static/media/yoga_logo.png": "/EmClo/Yoga-page/static/media/yoga_logo.f06d43462029e1357680.png",
+    "index.html": "/EmClo/Yoga-page/index.html",
+    "main.0ebbe0ca.css.map": "/EmClo/Yoga-page/static/css/main.0ebbe0ca.css.map",
+    "main.fc164f02.js.map": "/EmClo/Yoga-page/static/js/main.fc164f02.js.map",
+    "787.6d694c4a.chunk.js.map": "/EmClo/Yoga-page/static/js/787.6d694c4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ebbe0ca.css",
+    "static/js/main.fc164f02.js"
+  ]
+}
