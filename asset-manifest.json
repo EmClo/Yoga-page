@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Yoga-page/static/css/main.80eea438.css",
-    "main.js": "/Yoga-page/static/js/main.ef4444da.js",
+    "main.js": "/Yoga-page/static/js/main.7bcd9829.js",
     "static/js/787.6d694c4a.chunk.js": "/Yoga-page/static/js/787.6d694c4a.chunk.js",
     "static/media/yoga_blackandwhite.jpg": "/Yoga-page/static/media/yoga_blackandwhite.b0ae32d2ce24d3eeb471.jpg",
     "static/media/yoga_logo.png": "/Yoga-page/static/media/yoga_logo.f06d43462029e1357680.png",
     "index.html": "/Yoga-page/index.html",
     "main.80eea438.css.map": "/Yoga-page/static/css/main.80eea438.css.map",
-    "main.ef4444da.js.map": "/Yoga-page/static/js/main.ef4444da.js.map",
+    "main.7bcd9829.js.map": "/Yoga-page/static/js/main.7bcd9829.js.map",
     "787.6d694c4a.chunk.js.map": "/Yoga-page/static/js/787.6d694c4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80eea438.css",
-    "static/js/main.ef4444da.js"
+    "static/js/main.7bcd9829.js"
   ]
 }
