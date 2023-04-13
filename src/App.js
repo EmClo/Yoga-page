@@ -1,10 +1,12 @@
 import logo from "./yoga_logo.png";
 import "./App.css";
 import ButtonText from "./discoverText";
+import NavBar from "./NavBar";
 
 function App() {
   return (
     <div className="App">
+      <NavBar />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Discover Yoga</h2>

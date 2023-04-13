@@ -22,7 +22,7 @@
 .wordContainer {
   display: flex;
   align-items: center;
-  margin: 5px;
+  padding: 5px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -32,7 +32,7 @@
 }
 
 .App-header {
-  min-height: 100vh;
+  min-height: 89vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -46,7 +46,7 @@ h2 {
 }
 
 .App-link {
-  margin-top: 20px;
+  padding-top: 20px;
   font-weight: 500;
   color: #accc6a;
 }
