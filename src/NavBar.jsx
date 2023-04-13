@@ -4,7 +4,7 @@ import Logo from "./yoga_logo.png";
 function NavBar() {
   return (
     <nav className="nav">
-      <a href="/" className="nav-title">
+      <a href="https://emclo.github.io/Yoga-page/" className="nav-title">
         <img className="nav-logo" src={Logo} alt="Yoga pose" />
       </a>
       <ul>
